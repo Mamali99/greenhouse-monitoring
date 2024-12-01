@@ -13,7 +13,6 @@ ENV/
 .python-version
 
 # ML Model files
-*.h5
 *.keras
 *.pkl
 
