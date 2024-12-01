@@ -1,0 +1,41 @@
+# Environment variables
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.python-version
+
+# ML Model files
+*.h5
+*.keras
+*.pkl
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.backup
+*.bak
+*.save

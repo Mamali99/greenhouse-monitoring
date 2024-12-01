@@ -1,0 +1,11 @@
+# Core IoT and Image Processing
+requests>=2.31.0
+imageio>=2.31.5
+imageio-ffmpeg>=0.4.9
+python-dotenv>=1.0.0
+
+# Computer Vision and Machine Learning
+opencv-python>=4.8.0
+numpy>=1.24.0
+tensorflow>=2.13.0
+keras>=2.13.0
